@@ -1,0 +1,12 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- project: plateau finding technique                                                                  -- #
+# -- file: requirements.txt / libraries and dependencies for the project                                 -- #
+# -- author: IFFranciscoME                                                                               -- #
+# -- license: GPL-3.0 License                                                                            -- #
+# -- repository: https://github.com/IFFranciscoME/plateau                                                -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+plotly>=4.9.0
+numpy>=1.19.1
+pandas>=1.0.5

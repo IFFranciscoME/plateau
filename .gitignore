@@ -1,3 +1,10 @@
+# -- Added manually by IFFranciscoME -- #
+
+# idea folder of pycharm project
+.idea/
+# virtual environment
+venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
